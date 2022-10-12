@@ -11,7 +11,7 @@ I'm a Frontend Developer and Aspiring DevOps Engineer who currently works as a F
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, AWS,GCP and Azure Cloud Technologies.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer, DevOps Engineer or Cloud Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Frontend Engineer, DevOps Engineer or Cloud Engineer ( Junior level or Intermediate Level).
 - 📫 You can [view my resume](https://bit.ly/3Cc9kL9) and contact me by emailing danielobasuyi@gmail.com.
 
 ---
